@@ -10,3 +10,10 @@ wget go1.3.linux-amd64.tar.gz
 godeb-nodl go1.3.linux-amd64.tar.gz
 sudo dpkg -i go_1.3-godeb1_amd64.deb
 ```
+
+Bootstrap
+
+```
+wget https://github.com/jwiklund/godeb-nodl/releases/download/1.0/godeb-nodl
+chmod +x godeb-nodl
+```
